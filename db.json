@@ -4,28 +4,6 @@
 		"type": "APPEAL",
 		"date": "29/05/2019",
 		"uniqueSolrKey": "013687132.xml Appeal R0550/2019-5 Wed May 29 02:00:00 CEST 2019",
-		"languagesOriginal": [{
-			"code": "en",
-			"label": "English",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/EN/20190529_R0550_2019-5.pdf?app=caselaw&casenum=R0550/2019-5&trTypeDoc=NA"
-		}],
-		"languagesHumanTranslated": [],
-		"languagesMachineTranslated": [{
-			"code": "es",
-			"label": "español (es)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/ES/20190529_R0550_2019-5.doc?app=caselaw&casenum=R0550/2019-5&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "fr",
-			"label": "français (fr)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/FR/20190529_R0550_2019-5.doc?app=caselaw&casenum=R0550/2019-5&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "it",
-			"label": "italiano (it)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/IT/20190529_R0550_2019-5.doc?app=caselaw&casenum=R0550/2019-5&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}],
 		"ipRight": "EUTM",
 		"typeLabel": "Appeal",
 		"outcome": "Proceedings terminated",
@@ -48,28 +26,6 @@
 		"type": "APPEAL",
 		"date": "29/05/2019",
 		"uniqueSolrKey": "015963291.xml Appeal R1355/2018-4 Wed May 29 02:00:00 CEST 2019",
-		"languagesOriginal": [{
-			"code": "en",
-			"label": "English",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/EN/20190529_R1355_2018-4.pdf?app=caselaw&casenum=R1355/2018-4&trTypeDoc=NA"
-		}],
-		"languagesHumanTranslated": [],
-		"languagesMachineTranslated": [{
-			"code": "es",
-			"label": "español (es)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/ES/20190529_R1355_2018-4.doc?app=caselaw&casenum=R1355/2018-4&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "fr",
-			"label": "français (fr)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/FR/20190529_R1355_2018-4.doc?app=caselaw&casenum=R1355/2018-4&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "it",
-			"label": "italiano (it)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/IT/20190529_R1355_2018-4.doc?app=caselaw&casenum=R1355/2018-4&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}],
 		"ipRight": "EUTM",
 		"typeLabel": "Appeal",
 		"outcome": "Opposition allowed",
@@ -95,28 +51,6 @@
 		"type": "APPEAL",
 		"date": "29/05/2019",
 		"uniqueSolrKey": "015963291.xml Appeal R1284/2018-4 Wed May 29 02:00:00 CEST 2019",
-		"languagesOriginal": [{
-			"code": "en",
-			"label": "English",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/EN/20190529_R1284_2018-4.pdf?app=caselaw&casenum=R1284/2018-4&trTypeDoc=NA"
-		}],
-		"languagesHumanTranslated": [],
-		"languagesMachineTranslated": [{
-			"code": "es",
-			"label": "español (es)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/ES/20190529_R1284_2018-4.doc?app=caselaw&casenum=R1284/2018-4&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "fr",
-			"label": "français (fr)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/FR/20190529_R1284_2018-4.doc?app=caselaw&casenum=R1284/2018-4&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "it",
-			"label": "italiano (it)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/IT/20190529_R1284_2018-4.doc?app=caselaw&casenum=R1284/2018-4&trTypeDoc=eTranslation&sourceLang=en",
-			"serviceProvider": "eTranslation"
-		}],
 		"ipRight": "EUTM",
 		"typeLabel": "Appeal",
 		"outcome": "Opposition rejected",
@@ -142,28 +76,6 @@
 		"type": "APPEAL",
 		"date": "29/05/2019",
 		"uniqueSolrKey": "015046923.xml Appeal R2481/2017-1 Wed May 29 02:00:00 CEST 2019",
-		"languagesOriginal": [{
-			"code": "es",
-			"label": "Spanish",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/ES/20190529_R2481_2017-1.pdf?app=caselaw&casenum=R2481/2017-1&trTypeDoc=NA"
-		}],
-		"languagesHumanTranslated": [],
-		"languagesMachineTranslated": [{
-			"code": "en",
-			"label": "English (en)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/EN/20190529_R2481_2017-1.doc?app=caselaw&casenum=R2481/2017-1&trTypeDoc=eTranslation&sourceLang=es",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "fr",
-			"label": "français (fr)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/FR/20190529_R2481_2017-1.doc?app=caselaw&casenum=R2481/2017-1&trTypeDoc=eTranslation&sourceLang=es",
-			"serviceProvider": "eTranslation"
-		}, {
-			"code": "it",
-			"label": "italiano (it)",
-			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/IT/20190529_R2481_2017-1.doc?app=caselaw&casenum=R2481/2017-1&trTypeDoc=eTranslation&sourceLang=es",
-			"serviceProvider": "eTranslation"
-		}],
 		"ipRight": "EUTM",
 		"typeLabel": "Appeal",
 		"appealed": "No",
