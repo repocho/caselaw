@@ -1,0 +1,644 @@
+{
+	"numFound": 122,
+	"results": [{
+		"type": "APPEAL",
+		"date": "29/05/2019",
+		"uniqueSolrKey": "013687132.xml Appeal R0550/2019-5 Wed May 29 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/EN/20190529_R0550_2019-5.pdf?app=caselaw&casenum=R0550/2019-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/ES/20190529_R0550_2019-5.doc?app=caselaw&casenum=R0550/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/FR/20190529_R0550_2019-5.doc?app=caselaw&casenum=R0550/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/013687132/download/CLW/APL/2019/IT/20190529_R0550_2019-5.doc?app=caselaw&casenum=R0550/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Proceedings terminated",
+		"appealed": "No",
+		"entityNumber": "013687132",
+		"entityStatus": "Application published",
+		"norms": ["Article 66(1) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2019-01-16@type=Refusal@ref=013687132@",
+			"label": "Examination 013687132"
+		}],
+		"entityName": "CHARTERED TAX PROFESSIONAL",
+		"entityType": "Word",
+		"nickName": "Chartered tax professional",
+		"caseNumber": "R0550/2019-5",
+		"keywords": ["Withdrawal"],
+		"summary": "The applicant withdrew its application as welll as the appeal. The appeal proceedings are therefore closed.",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "29/05/2019",
+		"uniqueSolrKey": "015963291.xml Appeal R1355/2018-4 Wed May 29 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/EN/20190529_R1355_2018-4.pdf?app=caselaw&casenum=R1355/2018-4&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/ES/20190529_R1355_2018-4.doc?app=caselaw&casenum=R1355/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/FR/20190529_R1355_2018-4.doc?app=caselaw&casenum=R1355/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/IT/20190529_R1355_2018-4.doc?app=caselaw&casenum=R1355/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Opposition allowed",
+		"appealed": "No",
+		"entityNumber": "015963291",
+		"entityStatus": "Application opposed",
+		"norms": ["Article 8(1)(b) EUTMR", "Article 8(5) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-05-15@type=Opposition@ref=002841206@",
+			"label": "Opposition 002841206"
+		}],
+		"entityName": "GRILLOUMI  ",
+		"entityType": "Word",
+		"nickName": "Grilloumi / Halloumi",
+		"caseNumber": "R1355/2018-4",
+		"keywords": ["Collective mark ", "Distinctive element", "Reputation", "Descriptive", "Non-distinctive", "Word mark"],
+		"summary": "The evidence filed shows just that Halloumi is a special type of cheese. There is nothing submitted to suggest that, beyond its descriptive meaning, the word 'HALLOUMI' will be understood by the relevant public as indicating the collective mark nature of the goods at issue. Consequently, the evidence must be considered as insufficient to demonstrate that the earlier mark, an EU collective mark, is capable of constituting an indication of the commercial origin of the goods. 8(5) reputation has not been shown and there is no LOC either, given the differences between the sign and the descriptive nature of the word in common.",
+		"entityClasses": ["43"],
+		"earlierName": "(Trade mark without text)",
+		"earlierType": "Word - Names",
+		"earlierClasses": ["29"]
+	}, {
+		"type": "APPEAL",
+		"date": "29/05/2019",
+		"uniqueSolrKey": "015963291.xml Appeal R1284/2018-4 Wed May 29 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/EN/20190529_R1284_2018-4.pdf?app=caselaw&casenum=R1284/2018-4&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/ES/20190529_R1284_2018-4.doc?app=caselaw&casenum=R1284/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/FR/20190529_R1284_2018-4.doc?app=caselaw&casenum=R1284/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015963291/download/CLW/APL/2019/IT/20190529_R1284_2018-4.doc?app=caselaw&casenum=R1284/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Opposition rejected",
+		"appealed": "No",
+		"entityNumber": "015963291",
+		"entityStatus": "Application opposed",
+		"norms": ["Article 8(1)(b) EUTMR", "Article 8(5) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-05-08@type=Opposition@ref=002841289@",
+			"label": "Opposition 002841289"
+		}],
+		"entityName": "GRILLOUMI  ",
+		"entityType": "Word",
+		"nickName": "Grilloumi / Halloumi et al.",
+		"caseNumber": "R1284/2018-4",
+		"keywords": ["Descriptive element", "Distinctive element", "Certification mark", "Descriptive", "Non-distinctive", "Word mark"],
+		"summary": "The evidence filed shows just that Halloumi is a special type of cheese. There is nothing submitted to suggest that, beyond its descriptive meaning, the word 'HALLOUMI' will be understood by the relevant public as indicating the certification mark nature of the goods at issue. Consequently, the evidence must be considered as insufficient to demonstrate that the earlier marks, national certification marks, are capable of constituting an indication of the commercial origin of the goods. 8(5) reputation has not been shown and there is no LOC either, given the differences between the sign and the descriptive nature of the word in common.",
+		"entityClasses": ["43"],
+		"earlierName": "(Trade mark without text)",
+		"earlierType": "Word - Names",
+		"earlierClasses": ["29"]
+	}, {
+		"type": "APPEAL",
+		"date": "29/05/2019",
+		"uniqueSolrKey": "015046923.xml Appeal R2481/2017-1 Wed May 29 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "es",
+			"label": "Spanish",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/ES/20190529_R2481_2017-1.pdf?app=caselaw&casenum=R2481/2017-1&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "en",
+			"label": "English (en)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/EN/20190529_R2481_2017-1.doc?app=caselaw&casenum=R2481/2017-1&trTypeDoc=eTranslation&sourceLang=es",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/FR/20190529_R2481_2017-1.doc?app=caselaw&casenum=R2481/2017-1&trTypeDoc=eTranslation&sourceLang=es",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/015046923/download/CLW/APL/2019/IT/20190529_R2481_2017-1.doc?app=caselaw&casenum=R2481/2017-1&trTypeDoc=eTranslation&sourceLang=es",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"appealed": "No",
+		"entityNumber": "015046923",
+		"entityStatus": "Application opposed",
+		"norms": ["Article 8(1)(b) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2017-09-20@type=Opposition@ref=002768201@",
+			"label": "Opposition 002768201"
+		}],
+		"entityImage": "/copla/image/CJ4JX4FZVCC523YA2TMALSKFLEYIKB67XHO2DSVH2B4WRTA23NMIVDK7EIELQQTAIWUG2M244BJJG",
+		"entityName": "HOTEL TERESA by Room Mate",
+		"entityType": "Figurative",
+		"nickName": "HOTEL TERESA by Room Mate (fig.) / t TERESA CARLES HEALTHY FOODS (fig.) et al.",
+		"caseNumber": "R2481/2017-1",
+		"keywords": ["Withdrawal"],
+		"summary": "Withdrawal of the opposition with settlement on cost.",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "29/05/2019",
+		"uniqueSolrKey": "011279775.xml Appeal R1721/2017-1 Wed May 29 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/011279775/download/CLW/APL/2019/EN/20190529_R1721_2017-1.pdf?app=caselaw&casenum=R1721/2017-1&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/011279775/download/CLW/APL/2019/ES/20190529_R1721_2017-1.doc?app=caselaw&casenum=R1721/2017-1&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/011279775/download/CLW/APL/2019/FR/20190529_R1721_2017-1.doc?app=caselaw&casenum=R1721/2017-1&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/011279775/download/CLW/APL/2019/IT/20190529_R1721_2017-1.doc?app=caselaw&casenum=R1721/2017-1&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Proceedings terminated",
+		"appealed": "No",
+		"entityNumber": "011279775",
+		"entityStatus": "Registered",
+		"norms": ["Article 8(1)(b) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2017-06-08@type=Opposition@ref=002145335@",
+			"label": "Opposition 002145335"
+		}],
+		"entityName": "ACTIDOX",
+		"entityType": "Word",
+		"nickName": "ACTIDOX / ACTISOL et al.",
+		"caseNumber": "R1721/2017-1",
+		"keywords": ["Withdrawal"],
+		"summary": "Withdrawal of opposition with settlement on costs",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "29/05/2019",
+		"uniqueSolrKey": "016600116.xml Appeal R0147/2019-5 Wed May 29 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016600116/download/CLW/APL/2019/EN/20190529_R0147_2019-5.pdf?app=caselaw&casenum=R0147/2019-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016600116/download/CLW/APL/2019/ES/20190529_R0147_2019-5.doc?app=caselaw&casenum=R0147/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016600116/download/CLW/APL/2019/FR/20190529_R0147_2019-5.doc?app=caselaw&casenum=R0147/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016600116/download/CLW/APL/2019/IT/20190529_R0147_2019-5.doc?app=caselaw&casenum=R0147/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Inadmissible",
+		"appealed": "No",
+		"entityNumber": "016600116",
+		"entityStatus": "Application opposed",
+		"norms": ["Article 68(1) EUTMR", "Article 23(1)(d) EUTMDR"],
+		"relatedCases": [{
+			"id": "date=2018-11-21@type=Opposition@ref=002954108@",
+			"label": "Opposition 002954108"
+		}],
+		"entityImage": "/copla/image/CJ4JX4FZVCC523YA2TMALSKFLGJCDOBWP4D2MFBHECFIVKVIRNLYMOJBOKEUZSLSAL4OYYHBTH7X4",
+		"entityName": "S",
+		"entityType": "Figurative",
+		"nickName": "DEVICE OF A BLACK BOTTLE WITH A RECTANGULAR WHITE LABEL AND A BLACK LETTER S (fig.) / S (fig.)",
+		"caseNumber": "R0147/2019-5",
+		"keywords": ["Admissibility", "Statement of grounds"],
+		"summary": "The applicant filed no statement of grounds within the prescribed time-limit.  The appeal is inadmissible.",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "28/05/2019",
+		"uniqueSolrKey": "017920214.xml Appeal R0262/2019-4 Tue May 28 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017920214/download/CLW/APL/2019/EN/20190528_R0262_2019-4.pdf?app=caselaw&casenum=R0262/2019-4&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017920214/download/CLW/APL/2019/ES/20190528_R0262_2019-4.doc?app=caselaw&casenum=R0262/2019-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017920214/download/CLW/APL/2019/FR/20190528_R0262_2019-4.doc?app=caselaw&casenum=R0262/2019-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017920214/download/CLW/APL/2019/IT/20190528_R0262_2019-4.doc?app=caselaw&casenum=R0262/2019-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Application rejected",
+		"appealed": "No",
+		"entityNumber": "017920214",
+		"entityStatus": "Appeal pending",
+		"norms": ["Article 7(1)(b) EUTMR", "Article 7(1)(c) EUTMR", "Article 7(2) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-12-03@type=Refusal@ref=017920214@",
+			"label": "Examination 017920214"
+		}],
+		"entityName": "DERMASUCTION",
+		"entityType": "Word",
+		"nickName": "Dermasuction",
+		"caseNumber": "R0262/2019-4",
+		"keywords": ["Distinctive element"],
+		"summary": "Understood in relation to goods applied for that blackhead removal tools remove blackheads from skin by using suction.",
+		"entityClasses": ["21"],
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "28/05/2019",
+		"uniqueSolrKey": "016743312.xml Appeal R1888/2018-4 Tue May 28 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016743312/download/CLW/APL/2019/EN/20190528_R1888_2018-4.pdf?app=caselaw&casenum=R1888/2018-4&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016743312/download/CLW/APL/2019/ES/20190528_R1888_2018-4.doc?app=caselaw&casenum=R1888/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016743312/download/CLW/APL/2019/FR/20190528_R1888_2018-4.doc?app=caselaw&casenum=R1888/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016743312/download/CLW/APL/2019/IT/20190528_R1888_2018-4.doc?app=caselaw&casenum=R1888/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Opposition allowed",
+		"appealed": "No",
+		"entityNumber": "016743312",
+		"entityStatus": "Application opposed",
+		"norms": ["Article 8(1)(b) EUTMR", "Article 8(5) EUTMR"],
+		"entityImage": "/copla/image/CJ4JX4FZVCC523YA2TMALSKFLFTILKTPV7IV7MH2Z37MDCJJ6WAWGSQIAVVAX55WZOUI5WSMGEC64",
+		"entityName": "AUCHEE",
+		"entityType": "Figurative",
+		"nickName": "AUCHEE (fig.) / DEVICE OF A WILD CAT LEAPING TO THE LEFT (fig.)",
+		"caseNumber": "R1888/2018-4",
+		"keywords": ["Conceptual similarity", "Dissimilarity of the goods and services", "Likelihood of confusion", "Reputation", "Similarity of the goods and services", "Similarity of the signs", "Unfair advantage", "Visual similarity"],
+		"summary": "The  opposition on the grounds of Article 8(1)(b) EUTMR fails for the dissimilar goods and for the goods which are similar taking into account the very low visual similarity between the signs, the absence of any aural similarity and the no more than normal level of distinctiveness of the relevant earlier marks. The opposition on the grounds of Article 8(5) EUTMR succeeds for the part of the contested goods subject of the appeal for which a link and unfair advantage were established, the opposition on these grounds fails for the other part as the opponent did not comply with the requirement to provide prima facie evidence or arguments on any of the injuries claimed.",
+		"entityClasses": ["09 25"],
+		"earlierName": "(Trade mark without text)",
+		"earlierType": "Figurative",
+		"earlierClasses": ["09 25"]
+	}, {
+		"type": "APPEAL",
+		"date": "28/05/2019",
+		"uniqueSolrKey": "016943871.xml Appeal R0077/2019-5 Tue May 28 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016943871/download/CLW/APL/2019/EN/20190528_R0077_2019-5.pdf?app=caselaw&casenum=R0077/2019-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016943871/download/CLW/APL/2019/ES/20190528_R0077_2019-5.doc?app=caselaw&casenum=R0077/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016943871/download/CLW/APL/2019/FR/20190528_R0077_2019-5.doc?app=caselaw&casenum=R0077/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016943871/download/CLW/APL/2019/IT/20190528_R0077_2019-5.doc?app=caselaw&casenum=R0077/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM on which IA is based",
+		"typeLabel": "Appeal",
+		"outcome": "Inadmissible",
+		"appealed": "No",
+		"entityNumber": "016943871",
+		"entityStatus": "Application opposed",
+		"relatedCases": [{
+			"id": "date=2018-11-13@type=Opposition@ref=002976465@",
+			"label": "Opposition 002976465"
+		}],
+		"entityName": "QUIDLEX",
+		"entityType": "Word",
+		"nickName": "Quidlex / Quislex",
+		"caseNumber": "R0077/2019-5",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "27/05/2019",
+		"uniqueSolrKey": "016387524.xml Appeal R2256/2018-4 Mon May 27 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016387524/download/CLW/APL/2019/EN/20190527_R2256_2018-4.pdf?app=caselaw&casenum=R2256/2018-4&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016387524/download/CLW/APL/2019/ES/20190527_R2256_2018-4.doc?app=caselaw&casenum=R2256/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016387524/download/CLW/APL/2019/FR/20190527_R2256_2018-4.doc?app=caselaw&casenum=R2256/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/016387524/download/CLW/APL/2019/IT/20190527_R2256_2018-4.doc?app=caselaw&casenum=R2256/2018-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Opposition partially rejected",
+		"appealed": "No",
+		"entityNumber": "016387524",
+		"entityStatus": "Application opposed",
+		"norms": ["Article 8(1)(b) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-09-19@type=Opposition@ref=002917923@",
+			"label": "Opposition 002917923"
+		}],
+		"entityImage": "/copla/image/CJ4JX4FZVCC523YA2TMALSKFLEEXIYRTKQCV5FN7YZSF3NFLNMV2VZ2ISC3IOWMMU22T73LRSXYBY",
+		"entityName": "SMILY",
+		"entityType": "Figurative",
+		"nickName": "Smily (fig) / Smiley et al.",
+		"caseNumber": "R2256/2018-4",
+		"keywords": ["Retail services", "Similarity of the goods and services"],
+		"summary": "The contested retail services relating to specific goods are not similar to the goods covered by the earlier mark; the latter are not identical nor economically the same as the goods specified in Class 35 of the contested application. Reminder that in such cases it is about comparing services with goods, not 'as if' the comparison was between goods.",
+		"entityClasses": ["16 30 32"],
+		"earlierName": "(Trade mark without text)",
+		"earlierType": "Word - Dictionary words",
+		"earlierClasses": ["16 30 32"]
+	}, {
+		"type": "APPEAL",
+		"date": "27/05/2019",
+		"uniqueSolrKey": "017893382.xml Appeal R0044/2019-4 Mon May 27 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017893382/download/CLW/APL/2019/EN/20190527_R0044_2019-4.pdf?app=caselaw&casenum=R0044/2019-4&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017893382/download/CLW/APL/2019/ES/20190527_R0044_2019-4.doc?app=caselaw&casenum=R0044/2019-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017893382/download/CLW/APL/2019/FR/20190527_R0044_2019-4.doc?app=caselaw&casenum=R0044/2019-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017893382/download/CLW/APL/2019/IT/20190527_R0044_2019-4.doc?app=caselaw&casenum=R0044/2019-4&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Application rejected",
+		"appealed": "No",
+		"entityNumber": "017893382",
+		"entityStatus": "Appeal pending",
+		"norms": ["Article 7(1)(b) EUTMR", "Article 7(1)(c) EUTMR", "Article 7(2) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-11-15@type=Refusal@ref=017893382@",
+			"label": "Examination 017893382"
+		}],
+		"entityName": "PRIMEFLUTE",
+		"entityType": "Word",
+		"nickName": "Primeflute",
+		"caseNumber": "R0044/2019-4",
+		"keywords": ["Descriptive element", "Laudatory mark"],
+		"summary": "'FLUTE' - terminus technicus in packaging industry, designating the corrugated part of cardboard between the two liner boards. Sign will be understood with that the goods containerboard have a flute of excellent quality. Understood by professional public in the packaging industry.",
+		"entityClasses": ["16"],
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "27/05/2019",
+		"uniqueSolrKey": "017703356.xml Appeal R2250/2018-5 Mon May 27 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "cs",
+			"label": "Czech",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017703356/download/CLW/APL/2019/CS/20190527_R2250_2018-5.pdf?app=caselaw&casenum=R2250/2018-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "en",
+			"label": "English (en)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017703356/download/CLW/APL/2019/EN/20190527_R2250_2018-5.pdf?app=caselaw&casenum=R2250/2018-5&trTypeDoc=eTranslation&sourceLang=cs",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"appealed": "No",
+		"entityNumber": "017703356",
+		"entityStatus": "Appeal pending",
+		"norms": ["Article 7(1)(b) EUTMR", "Article 7(1)(c) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-09-27@type=Refusal@ref=017703356@",
+			"label": "Examination 017703356"
+		}],
+		"entityImage": "/copla/image/CJ4JX4FZVCC523YA2TMALSKFLESLNU2SYOQLJLQBSSZMCODMBVOM4MUCHBPLNQOERE2M6BJ3N5AVO",
+		"entityName": "MAGNESIA EXTRA",
+		"entityType": "Figurative",
+		"nickName": "MAGNESIA EXTRA (fig)",
+		"caseNumber": "R2250/2018-5",
+		"keywords": ["Descriptive element", "Figurative element", "Figurative trade mark", "Descriptive"],
+		"summary": "The mark is descriptive because it clearly informs that the non-alcoholic beverages in question contain additional magnesium dioxide. It also lacks distinctiveness because it contains purely informational and promotional message about the relevant goods and hence it will not fulfil the function of the commercial identification. The figurative elements are insufficient to diverge the consumer´s attention from the descriptive message.",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "27/05/2019",
+		"uniqueSolrKey": "017703331.xml Appeal R1993/2018-5 Mon May 27 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "cs",
+			"label": "Czech",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017703331/download/CLW/APL/2019/CS/20190527_R1993_2018-5.pdf?app=caselaw&casenum=R1993/2018-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "en",
+			"label": "English (en)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017703331/download/CLW/APL/2019/EN/20190527_R1993_2018-5.pdf?app=caselaw&casenum=R1993/2018-5&trTypeDoc=eTranslation&sourceLang=cs",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"appealed": "No",
+		"entityNumber": "017703331",
+		"entityStatus": "Appeal pending",
+		"norms": ["Article 7(1)(b) EUTMR", "Article 7(1)(c) EUTMR", "Article 7(2) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-08-22@type=Refusal@ref=017703331@",
+			"label": "Examination 017703331"
+		}],
+		"entityImage": "/copla/image/CJ4JX4FZVCC523YA2TMALSKFLESLNU2SYOQLJLQBSSZMCODMBVOPWTYB3AOMH2CG27EJRUFYWMY5W",
+		"entityName": "MAGNESIA EXTRA",
+		"entityType": "Figurative",
+		"nickName": "MAGNESIA EXTRA (fig.)",
+		"caseNumber": "R1993/2018-5",
+		"keywords": ["Descriptive element", "Distinctive element", "Figurative element", "Figurative trade mark", "Descriptive"],
+		"summary": "The mark is descriptive because it clearly informs that the non-alcoholic beverages in question contain additional magnesium dioxide. It also lacks distinctiveness because it contains purely informational and promotional message about the relevant goods and hence it will not be capable of functioning as the badge of origin. The figurative elements are insufficient to diverge the consumer´s attention from the descriptive message.",
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "27/05/2019",
+		"uniqueSolrKey": "017912281.xml Appeal R0263/2019-5 Mon May 27 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "en",
+			"label": "English",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017912281/download/CLW/APL/2019/EN/20190527_R0263_2019-5.pdf?app=caselaw&casenum=R0263/2019-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "es",
+			"label": "español (es)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017912281/download/CLW/APL/2019/ES/20190527_R0263_2019-5.doc?app=caselaw&casenum=R0263/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "fr",
+			"label": "français (fr)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017912281/download/CLW/APL/2019/FR/20190527_R0263_2019-5.doc?app=caselaw&casenum=R0263/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}, {
+			"code": "it",
+			"label": "italiano (it)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017912281/download/CLW/APL/2019/IT/20190527_R0263_2019-5.doc?app=caselaw&casenum=R0263/2019-5&trTypeDoc=eTranslation&sourceLang=en",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"outcome": "Application rejected",
+		"appealed": "No",
+		"entityNumber": "017912281",
+		"entityStatus": "Application refused",
+		"norms": ["Article 7(1)(b) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-12-04@type=Refusal@ref=017912281@",
+			"label": "Examination 017912281"
+		}],
+		"entityName": "INTELLIGENT MESH",
+		"entityType": "Word",
+		"nickName": "Intelligent mesh",
+		"caseNumber": "R0263/2019-5",
+		"keywords": ["Laudatory mark"],
+		"summary": "The expression ‘Intelligent mesh’ will be understood as a ‘smart network’. It will be perceived as a laudatory message, informing the consumers that the devices are very sophisticated, technically advanced. Accordingly, it has to be refused pursuant to Article 7(1)(b) EUTMR.",
+		"entityClasses": ["09"],
+		"earlierName": "(Trade mark without text)"
+	}, {
+		"type": "APPEAL",
+		"date": "27/05/2019",
+		"uniqueSolrKey": "017495871.xml Appeal R1994/2018-5 Mon May 27 02:00:00 CEST 2019",
+		"languagesOriginal": [{
+			"code": "cs",
+			"label": "Czech",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017495871/download/CLW/APL/2019/CS/20190527_R1994_2018-5.pdf?app=caselaw&casenum=R1994/2018-5&trTypeDoc=NA"
+		}],
+		"languagesHumanTranslated": [],
+		"languagesMachineTranslated": [{
+			"code": "en",
+			"label": "English (en)",
+			"pdfUrl": "https://oami.europa.eu/copla/trademark/data/017495871/download/CLW/APL/2019/EN/20190527_R1994_2018-5.pdf?app=caselaw&casenum=R1994/2018-5&trTypeDoc=eTranslation&sourceLang=cs",
+			"serviceProvider": "eTranslation"
+		}],
+		"ipRight": "EUTM",
+		"typeLabel": "Appeal",
+		"appealed": "No",
+		"entityNumber": "017495871",
+		"entityStatus": "Appeal pending",
+		"norms": ["Article 7(1)(b) EUTMR", "Article 7(1)(c) EUTMR", "Article 7(2) EUTMR"],
+		"relatedCases": [{
+			"id": "date=2018-08-22@type=Refusal@ref=017495871@",
+			"label": "Examination 017495871"
+		}],
+		"entityName": "MAGNESIA Extra",
+		"entityType": "Word",
+		"nickName": "Magnesia extra",
+		"caseNumber": "R1994/2018-5",
+		"keywords": ["Descriptive element", "Descriptive", "Non-distinctive", "Word mark"],
+		"summary": "The mark is descriptive because it clearly informs that the non-alcoholic beverages in question contain additional magnesium dioxide. It also lacks distinctiveness because it contains purely informational and promotional message about the relevant goods and hence it will not be able to perform the function of badge of origin.",
+		"earlierName": "(Trade mark without text)"
+	}]
+}
